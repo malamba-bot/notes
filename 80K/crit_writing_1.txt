@@ -1,0 +1,25 @@
+PART ONE	
+	- PVP games focus agency gameplay not story
+	- Valorant incoperates story telling elements through enviornment and content drops
+	- PVP, mechanic based games which are come back to frequently can use this struct to tell stories
+PART TWO
+	- how to game provides massive agency
+		-planning
+		-impact on game
+	- how to game provides fantasy
+		-combatant
+		-character and role choice
+		-agency
+	- how game provides narrative
+		- maps
+		- voicelines
+		- content drops, cinematics
+	- contradiction
+		- too sparse, long, and removed from gameplay
+		reply
+			-game is meant to be experienced over long period of time
+PART THREE
+	- pay attention when games spend huge amounts of time and money into making cinematics, they are trying to tell a story
+
+
+Most player versus player games focus on agency. It's all about developing skills and action plans to take out your opponent with superior decision-making. This overwhelming amount of agency plays nicely with the fantasies that these types of games usually put their players in. For example, Mortal Combat puts you in the fantasy of being a powerful warrior who has to defeat his opponents, and having free reign to use your moves however you'd like is pivitol to experiencing this fantasy. This focus on agency and fantasy largely places the pace, sequence of events, and result of a game in the hands of the players, making it challenging for the game developers to tell a story. However, there are a handful of games that have managed to hijack the inverse relationship between player agency and storytelling as explained by Zubeck in Elements of Game Design. Valorant manages to tell a story while providing players with high amounts of agency and fantasy through exploiting it's own format t
