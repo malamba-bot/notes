@@ -3,20 +3,32 @@ OPERATORS, MOTIONS, AND COUNTS
     Operators and motion commands are combined to make changes to text.
     Counts can be added to repeat these commands any # of times.
     OPERATORS
-        d - delete
-        x - delete curr word
-        r - replace
-        p - paste
-		FILE PROPERTY OPERATORS
+		EDITING
+	        d - delete
+        	x - delete curr word
+        	r - replace
+        	p - paste
+		FILE PROPERTY 
 			ctrl + g - show word count
-			
+		SEARCHING [fix spacing and placement]		
+			F+{search} - find backward on line   
+				; jumps to next instance
+			f+{search} - find forward on line 
+				; jumps to next instance
+			/+{search} - forward search 
+				n - next instance, N - previous instance
+			?+{search} - backward search 
+				n - next instance, N - previous instance
     MOTIONS
         w - rest of word and any whitespace after it
         e - rest of word
         $ - rest of the line
         ^ - goes to first non-whitespace char
         0 - goes to first char
-        i - in <additional parameter>
+        i - in {additional parameter}
             Ex. diw - delete everything in current word
 		g - selected section
+UNDO AND REDO
+	undo - u
+	redo - ctrl + r
 
