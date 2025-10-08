@@ -1,12 +1,15 @@
                                                         VIM NOTES
 OPERATORS, MOTIONS, AND COUNTS 
-    Operators and motions commands are combined to make changes to text.
+    Operators and motion commands are combined to make changes to text.
     Counts can be added to repeat these commands any # of times.
     OPERATORS
         d - delete
         x - delete curr word
         r - replace
         p - paste
+		FILE PROPERTY OPERATORS
+			ctrl + g - show word count
+			
     MOTIONS
         w - rest of word and any whitespace after it
         e - rest of word
@@ -15,4 +18,5 @@ OPERATORS, MOTIONS, AND COUNTS
         0 - goes to first char
         i - in <additional parameter>
             Ex. diw - delete everything in current word
+		g - selected section
 
